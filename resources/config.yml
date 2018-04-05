@@ -1,0 +1,22 @@
+# Configuration file for PowerNick
+# PowerNick by @McpeBooster
+
+#If you need help, look at the ReadMe.md
+
+#Every change needs an Server Restart!!!
+
+
+#Language of the Plugin: only supportet eng/deu
+language: deu
+
+#All available Nicks
+allnick:
+    - zKurbisProlli
+    - Undercover
+    - changeinconfig3
+
+#chat format when Player is nicked (Should be the same as normal player chat format)
+chatformat: '§6Player §7{nickname}: {message}'
+
+#nametag
+nametag: '§6Player §7{nickname}'
