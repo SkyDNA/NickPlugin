@@ -1,0 +1,56 @@
+<H1>Pocketmine PowerNick Plugin by @McpeBooster</H1>
+
+<br>
+
+<H1>News:</H1>
+
+The plugin is now complete and has been released
+
+This Plugin has now a MultiLang System with English and , more comming soon.
+
+New Skin changer
+
+<br>
+
+Change the language easily in the config.yml
+
+<br>
+
+<H1>How to install:</H1>
+
+<br>
+
+Drop the Plugin into you plugins folder, restart your server and change the config.yml!
+
+<br>
+
+<br>
+
+<H1>Commands:</H1>
+
+| Command | Description | Permission |
+| --- | --- | --- |
+| /nick auto | add/del nick | PowerNick.nick |
+
+<br>
+
+<br>
+
+<H1>Features:</H1>
+
+- Changes the player name, group and the skin
+- Highly changeable
+
+<br>
+
+<br>
+
+<H1>Contact details:</H1>
+
+Twitter: https://twitter.com/McpeBooster
+
+YouTube: https://youtube.com/McpeBooster
+
+GitHub: https://github.com/McpeBooster
+
+E-Mail: mcpebooster@gmail.com
